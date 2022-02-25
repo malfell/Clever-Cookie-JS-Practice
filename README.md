@@ -22,10 +22,10 @@ Your job is to complete the rest of the script.js file (located in the assets fo
 ### Your Goals
 Use the below directions and grading rubric as a guide for completing each portion of the task. 
 
-- [ ] The `Created By` h2 element above the footer says Created By [YOUR NAME] instead of Created By Jane Doe, where [YOUR NAME] represents your real name. (Hint: You will be able to change this via JavaScript in your script.js file!)
-- [ ] The +1 and –1 buttons are clickable for each cookie. This means that clicking them executes code and produces a noticable result of some kind. There are six buttons total.
-- [ ] The +1 button for each cookie adds one to the appropriate cookie count.
-- [ ] The –1 button for each cookie subtracts one from the appropriate cookie count.
-- [ ] The table updates the appropriate table cell for the specific cookie when each cookie's +1 or -1 button is clicked.
-- [ ] The table updates the total cell in the table footer that tallies all the cookies.
-- [ ] Do not allow the number of cookies to be less than zero for any of the three cookies.
+- [x] The `Created By` h2 element above the footer says Created By [YOUR NAME] instead of Created By Jane Doe, where [YOUR NAME] represents your real name. (Hint: You will be able to change this via JavaScript in your script.js file!)
+- [x] The +1 and –1 buttons are clickable for each cookie. This means that clicking them executes code and produces a noticable result of some kind. There are six buttons total.
+- [x] The +1 button for each cookie adds one to the appropriate cookie count.
+- [x] The –1 button for each cookie subtracts one from the appropriate cookie count.
+- [x] The table updates the appropriate table cell for the specific cookie when each cookie's +1 or -1 button is clicked.
+- [x] The table updates the total cell in the table footer that tallies all the cookies.
+- [x] Do not allow the number of cookies to be less than zero for any of the three cookies.
